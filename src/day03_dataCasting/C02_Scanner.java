@@ -20,4 +20,3 @@ public class C02_Scanner {
         System.out.println("girilen bilgiler : "+ isimIlkHarf+" "+soyisim+" "+yas);
         }
     }
-
